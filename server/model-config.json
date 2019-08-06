@@ -26,13 +26,14 @@
   },
   "RoleMapping": {
     "dataSource": "db",
-    "public": false,
-    "options": {
-      "strictObjectIDCoercion": true
-    }
+    "public": false
   },
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Product":{
+    "dataSource": "mongodb",
+    "public": true
   }
 }
