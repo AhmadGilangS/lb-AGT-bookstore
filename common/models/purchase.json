@@ -1,0 +1,40 @@
+{
+    "name": "Purchase",
+    "base": "PersistedModel",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+
+    "properties": {
+      "idCustomer": {
+        "type": "string", 
+        "required": true
+      },
+      "idProduct": {
+        "type": "array",
+        "required": true
+      },
+      "qtyProduct": {
+        "type": "array",
+        "required": true
+      },
+      "totalPayment": {
+        "type": "number",
+        "required": true
+      },
+      "status": {
+        "type": "string",
+        "required": true
+      },
+      "createAt": {
+        "type": "date",
+        "defaultFn": "now"
+      }
+    },
+
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }

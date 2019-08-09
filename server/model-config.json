@@ -35,5 +35,9 @@
   "Product":{
     "dataSource": "mongodb",
     "public": true
+  },
+  "Purchase":{
+    "dataSource": "mongodb",
+    "public": true
   }
 }
