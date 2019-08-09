@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5d48ee6d893fee223c68d90b"},"nameProduct":"Buku Fisika","hargaProduct":"50000","gambarProduct":"11","quantity":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d48ee95893fee223c68d90c"},"nameProduct":"Buku Biologi","hargaProduct":"70000","gambarProduct":"14","quantity":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d48eea0893fee223c68d90d"},"nameProduct":"Buku Kimia","hargaProduct":"65000","gambarProduct":"12","quantity":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d48eebc893fee223c68d90e"},"nameProduct":"Buku Matematika","hargaProduct":"75000","gambarProduct":"13","quantity":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d48eec5893fee223c68d90f"},"nameProduct":"Buku PKN","hargaProduct":"45000","gambarProduct":"15","quantity":{"$numberInt":"0"}}
